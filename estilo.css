@@ -1,0 +1,36 @@
+*{
+padding: 0px;
+margin: 5px;
+box-sizing: border-box;
+
+}
+.title{
+	color: white;
+	font-size: 50px;
+	background-color: #fbfe71;
+
+}
+.p{
+	margin: 10px;
+	padding: 5px;
+	color: gray;
+	font-size: 18px;
+	text-align: justify;
+	background-color: white;
+	font-family: monospace;
+}
+.img{
+	width: 300px;
+	height: 300px;
+	box-shadow: 10px 10px 0px #fbfe71;
+}
+.imagen{
+    position: fixed;
+    min-width: 100%;
+    min-width: 100%;
+    top: 25%;
+    left: 25%;
+    transform: translateY(-50%) translateX(-25%);
+    z-index: -1;
+}
+
